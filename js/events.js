@@ -8,4 +8,11 @@ $(document).ready(function(){
       alert("Hey!");
     });
   }
+
+  function frameIt(){
+    $(document).on('load', function(){
+      
+    });
+  }
+  
 });
